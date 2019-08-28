@@ -1,0 +1,4 @@
+Kashan Nadeem;nadeemkashan15@stud.ase.ro;IT;M;Project Manager;8000;Programming
+Andrei Marin;marinvalentin15@stud.ase.ro;BI;M;BI Intern;3000;Logistics Optimizations
+Victor Neagu;neaguvictor15@stud.ase.ro;Sales;M;Sales assistant;5000;Social Media
+Delia Berbec;berbecdelia15@stud.ase.ro;Marketing;F;Rebranding manager;4500;Advertising
